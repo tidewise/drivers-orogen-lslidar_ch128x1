@@ -2,6 +2,8 @@
 
 name "lslidar_ch128x1"
 
+cxx_standard "c++17"
+
 using_library "lslidar_ch128x1"
 using_task_library "iodrivers_base"
 
